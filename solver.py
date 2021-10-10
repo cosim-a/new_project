@@ -23,7 +23,7 @@ use_maom = True
 unit_factor = 1e6/12
 
 use_optimizer = True
-predict_beyond_measurements = True
+predict_beyond_measurements = False
 
 
 #%%
